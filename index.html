@@ -38,7 +38,7 @@ banner_path:
 
 <div class="alternating events">
 	<!--<h2>We Raise Funds Through Community Events</h2>-->
-	{% assign sorted_events = (site.events | sort: "event-sort") %}
+	{% assign sorted_events = (site.events ) %}
 	{% for event in sorted_events %}
 	<div>
 		<img src="{{ event.featured_image_path }}" alt=""/>
