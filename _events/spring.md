@@ -1,6 +1,8 @@
 ---
 layout: spring
 title: Spring Event
+headline: North MCC Spring Event
+sub_head: 
 event-title: members 
 permalink: /events/spring/
 event-sort: 2
@@ -8,6 +10,7 @@ details-page: true
 featured_image_path: /images/illustrations/members.jpg
 banner_image_path: /images/banners/pizza.jpg
 ---
+# An event for foundation members & guests
 <p></p>
 ## Menu
 Fire roasted pizza & tossed green salad paired with your drink of choice.
@@ -16,22 +19,30 @@ Fire roasted pizza & tossed green salad paired with your drink of choice.
 
 ## Pricing
 $20 per person
+<br />
 $3 per beer
+<br />
 Wine Option 1: $3
+<br />
 Wine Option 2: $6
 
 ## Details
 7:30 on June 16th at
+<br />
 Mike Bradshaw's Home:
+<br />
 1775 Juniper St. Centennial Park, AZ
 
 ## RSVP
 Text (435) 879-1420
+<br />
 Bre@northmcc.com
 
 ## Special Thanks
-Mama Lisa's Pizza 
+Mama Lisa's Pizza
+<br /> 
 &
+<br />
 Our Host/DJ Mike Bradshaw
 
 <!--
