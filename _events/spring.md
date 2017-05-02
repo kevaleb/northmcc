@@ -3,6 +3,7 @@ layout: spring
 title: Spring Event
 headline: North MCC Spring Event
 sub_head: 
+snippet: An event for foundation members & guests. The menu will be fire roasted pizza & tossed green salad paired with your drink of choice.
 event-title: members 
 permalink: /events/spring/
 event-sort: 2

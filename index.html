@@ -44,7 +44,7 @@ banner_path:
 		<img src="{{ event.featured_image_path }}" alt=""/>
 		<hgroup>
 			<h2 class="{% cycle 'animate-right', 'animate-left' %}">{{ event.title }}</h2>
-			<p class="{% cycle 'animate-right', 'animate-left' %}">{{ event.excerpt }}</p>
+			<p class="{% cycle 'animate-right', 'animate-left' %}">{{ event.snippet }}</p>
 			
 			{% if event.details-page == true %}
 			<a href="{{ event.url }}" class="button outline animate-up">Show Me More</a>

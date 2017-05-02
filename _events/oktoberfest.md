@@ -2,6 +2,7 @@
 layout: oktoberfest
 title: Oktoberfest
 sub-title: Friday Sep 23, 2016 @ 6:00PM
+snippet: Highly anticipated and open to the public, the Oktoberfest is always a continued highlight of our annual festivities. An attractive event for those seeking an enjoyable night of food, drinks and live music, the Oktoberfest has become a well known, keystone event in the Foundation’s schedule.
 event-title: oktoberfest
 featured_image_path: /images/events/oktoberfest/oktoberfest-banner.jpg
 banner_image_path: /images/events/oktoberfest/banner.jpg
