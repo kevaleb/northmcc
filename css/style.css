@@ -26,37 +26,65 @@ body > .snipcart-checkout {
 	padding: 24px;
 }
 
+
 h1 {
-	font: 900 36px/48px Georgia, "Times New Roman", Times, serif;
-	color: #b81515;
+	font: 900 24px/30px Georgia, "Times New Roman", Times, serif;
+	text-transform: uppercase;
+	color: #111;
 }
 h2 {
-	font:900  30px/36px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-	color: #444;
-	left: 1px;
+	font: 500 22px/26px Georgia, "Times New Roman", Times, serif;
+	text-transform: capitalize;
+	color: #555;
+	word-spacing: 0;
+	letter-spacing: 0px;
 }
 h3 {
-	font: 500 24px/30px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-	color: #444;
-	letter-spacing: 1px;
+	font: 500 16px/24px Georgia, "Times New Roman", Times, serif;
+	color: #666;
 }
 h4 {
-	font: 500 18px/30px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-	color: #444;
-	letter-spacing: 1px;
+	font: 500 15px/24px Georgia, "Times New Roman", Times, serif;
+	color: #666;
 }
-p {
-	font: 200 18px/1.9em "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-	color: #444;
+h5 {
+	font: 400 14px/24px Georgia, "Times New Roman", Times, serif;
+	color: #666;
 }
-ul {
-	font: 200 18px/1.9em "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-	color: #444;
+h6 {
+	font: 300 13px/24px Georgia, "Times New Roman", Times, serif;
+	color: #666;
 }
-a {
-	font: 200 18px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-	color: #444;
+
+p,
+ul,
+ol,
+a,
+blockquote {
+	font: 300 18px/24px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #555;
 }
+p > em {
+	font-weight: 500;
+}
+
+ul,ol {
+	padding: 0 0 0 24px;
+}
+ul > li,ol > li {
+	text-align: left;
+}
+ul > li:last-of-type,
+ol > li:last-of-type {
+	margin: 0;
+}
+
+blockquote > p:before,
+blockquote > p:after {
+	content: '"';
+}
+
+
 a:hover {
 	color: #b23636;
 }
@@ -146,7 +174,76 @@ a:hover {
 	
 
 
+/* @group Article */
+article {
+	max-width: 720px;
+	margin: 0 auto;
+	padding: 48px 0px;
+	text-align: center;
+}
+article > * {
+	margin:0px 0 0px 0;
+}
+article > h1,h2,h3,h4,h5,h6 {
+	margin: 24px 0 0 0;
+}
+article > :first-child {
+	margin-top: 0;
+}
+article > :last-child {
+	margin-bottom: 0;
+}
 
+article img {
+	width: 100%;
+	margin-bottom: 24px;
+}
+article blockquote {
+	padding: 24px 0;
+}
+
+
+
+@media all and (max-width: 960px) {
+
+	article {
+		padding: 48px;
+		column-count: 1;
+	}
+
+}
+
+@media all and (max-width: 720px) {
+
+	article {
+		padding: 0 24px;
+		column-count: 1;
+	}
+
+}
+
+@media all and (max-width: 480px) {
+
+	article {
+		padding: 0 0 48px 0;
+	}
+	article h1,
+	article h2,
+	article h3,
+	article h4,
+	article h5,
+	article h6,
+	article p,
+	article ul {
+		padding-left: 24px;
+		padding-right: 24px;
+	}
+	article ul,
+	article ol {
+		padding-left: 60px;
+	}
+}
+/* @end */
 
 
 
@@ -1143,7 +1240,11 @@ header.open > .menu-button > span.three {
 
 
 
-/* @group Article */
+
+
+
+
+/*/* @group Article *!/
 article {
 	max-width: 720px;
 	margin: 0 auto;
@@ -1214,10 +1315,10 @@ article > ul {
 }
 article > ul > li{
 	margin: 36px 0;
-	/*padding: 50px;*/
+	/*padding: 50px;*!/
 	font-size: 20px;
 }
-/* @end */
+/* @end *!/*/
 
 
 

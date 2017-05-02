@@ -1,0 +1,37 @@
+---
+layout: default
+---
+<div class="banner half" style="background-image: url('{{ page.banner_image_path }}'); background-position: top center!important;">
+	<hgroup>
+		<h2 style="margin: 0;">(Members Only)</h2>
+		<h1>Spring Event</h1>
+		<br /><br />
+		<a href="#" class="snipcart-add-item button"
+		    data-item-id="2"
+		    data-item-name="Tickets: Spring Event"
+		    data-item-price="20.00"
+		    data-item-weight="0"
+		    data-item-url="http://northmcc.com{{ page.url }}"
+		>RSVP / Buy Tickets</a>
+	</hgroup>
+</div>
+
+<article>
+	{{ content }}
+</article>
+
+<div style="text-align: center; padding: 48px 0;">
+	<h1 style="text-transform: uppercase;">Not A Member Yet?</h1>
+	<h2 style="margin: 0;">It's easy to become one.</h2>
+	<br />
+	<button class="snipcart-add-plan button outline"
+	    data-plan-id="001"
+	    data-plan-name="MCC Foundation Membership"
+	    data-plan-interval="Year"
+	    data-plan-amount="50"
+	    data-plan-url="https://northmcc.com{{ page.url }}">
+	    Become A Member - $50/Year
+	</button>
+	<br /><br />
+	<a href="/">What do we do with the money?</a>
+</div>

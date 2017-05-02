@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: oktoberfest
 title: Oktoberfest
 sub-title: Friday Sep 23, 2016 @ 6:00PM
 event-title: oktoberfest
