@@ -10,12 +10,11 @@ details-page: true
 featured_image_path: /images/illustrations/members.jpg
 banner_image_path: /images/banners/pizza.jpg
 ---
+
 # An event for foundation members & guests
-<p></p>
+
 ## Menu
 Fire roasted pizza & tossed green salad paired with your drink of choice.
-
-<!--more-->
 
 ## Pricing
 $20 per person
