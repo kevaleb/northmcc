@@ -1,7 +1,7 @@
 ---
 layout: oktoberfest
 title: Oktoberfest
-sub-title: Friday Sep 23, 2016 @ 6:00PM
+sub-title: Friday Sep 22, 2017 @ 6:00PM
 snippet: Highly anticipated and open to the public, the Oktoberfest is always a continued highlight of our annual festivities. An attractive event for those seeking an enjoyable night of food, drinks and live music, the Oktoberfest has become a well known, keystone event in the Foundation’s schedule.
 event-title: oktoberfest
 featured_image_path: /images/events/oktoberfest/oktoberfest-banner.jpg
@@ -13,10 +13,10 @@ cta-link: '#pricing'
 event-sort: 1
 details-page: true
 pricing: true
-location: Gene Dockstaders Home
-address: '1740 S Richard St. Centennial Park AZ, 86021'
-lat: 36.958923
-lng: -112.98227500000002
+location: John Knudsons Resdience
+address: '1740 Julias Cirlce Centennial Park AZ, 86021'
+lat: 36.958915
+lng: -112.980237
 mapzoom: 17
 price-tiers:
   - title: Single Ticket
