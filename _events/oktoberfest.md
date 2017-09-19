@@ -21,7 +21,7 @@ mapzoom: 17
 price-tiers:
   - title: Single Ticket
     product-number: 1
-    price: 15
+    price: 25
     payment-interval: once
     more-info: false
     link-to-more-info:
@@ -36,7 +36,6 @@ price-tiers:
     details:
       - 1 Membership
       - 2 Free Tickets
-      - 2 Free Beers
       - Stein Raffle Ticket
   - title: Family Membership
     product-number: 3
@@ -47,7 +46,6 @@ price-tiers:
     details:
       - 1 Family Membership
       - 2 Free Tickets
-      - 4 Free Beers
       - 1 ceramic Stein
       - Stein Raffle Ticket
   - title: Deans Club Membership
@@ -59,7 +57,6 @@ price-tiers:
     details:
       - 1 Deans Club Membership
       - 4 Oktoberfest Tickets
-      - 6 Beers
       - 1 Ornate Stein
       - Stein Raffle Ticket
   - title: Trustees Club Membership
@@ -71,7 +68,6 @@ price-tiers:
     details:
       - 1 Trustees Club Membership
       - 4 Tickets
-      - 2 X 1 Gallon Pitcher of Beer
       - 1 Ornate Stein
       - Stein Raffle Ticket
   - title: Presidents Club Membership
@@ -83,10 +79,9 @@ price-tiers:
     details:
       - 1 Presidents Club Membership
       - 4 Tickets
-      - 5 X 1 Gallon Pitcher of Beer
       - 1 Premium Stein
       - Stein Raffle Ticket
 ---
 
 
-Highly anticipated and open to the public, the Oktoberfest is always a continued highlight of our annual festivities. An attractive event for those seeking an enjoyable night of food, drinks and live music, the Oktoberfest has become a  well known, keystone event in the Foundation’s schedule. <!--more--> A great opportunity to connect face to face with our members, the board enjoys using this event to create a strong sense of identity within the community and revisit valued friendship with our members. A fantastic call to action, the Oktoberfest is an ideal venue to invite our community and surrounding areas to participate in a membership with the college in an effort to further the goals of our campus, proving to be one of the most successful calendar events hosted by the Foundation. As a major contributor to the revenue the Foundation is able to raise, the event generates a large portion of the scholarship funds used to give to our gifted students at our MCC campus.
+Highly anticipated and open to the public (over 21), the Oktoberfest is always a continued highlight of our annual festivities. An attractive event for those seeking an enjoyable night of food, drinks and live music, the Oktoberfest has become a  well known, keystone event in the Foundation’s schedule. <!--more--> A great opportunity to connect face to face with our members, the board enjoys using this event to create a strong sense of identity within the community and revisit valued friendship with our members. A fantastic call to action, the Oktoberfest is an ideal venue to invite our community and surrounding areas to participate in a membership with the college in an effort to further the goals of our campus, proving to be one of the most successful calendar events hosted by the Foundation. As a major contributor to the revenue the Foundation is able to raise, the event generates a large portion of the scholarship funds used to give to our gifted students at our MCC campus.
