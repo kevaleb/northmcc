@@ -13,8 +13,8 @@ cta-link: '#pricing'
 event-sort: 1
 details-page: true
 pricing: true
-location: John Knudsons Resdience
-address: '1740 Julias Cirlce Centennial Park AZ, 86021'
+location: John Knudsons Residence
+address: '1740 Julias Circle Centennial Park AZ, 86021'
 lat: 36.958915
 lng: -112.980237
 mapzoom: 17
